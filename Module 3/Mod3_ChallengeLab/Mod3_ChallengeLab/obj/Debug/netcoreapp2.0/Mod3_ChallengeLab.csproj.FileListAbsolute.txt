@@ -1,0 +1,11 @@
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\bin\Debug\netcoreapp2.0\Mod3_ChallengeLab.deps.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\bin\Debug\netcoreapp2.0\Mod3_ChallengeLab.runtimeconfig.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\bin\Debug\netcoreapp2.0\Mod3_ChallengeLab.runtimeconfig.dev.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\bin\Debug\netcoreapp2.0\Mod3_ChallengeLab.dll
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\bin\Debug\netcoreapp2.0\Mod3_ChallengeLab.pdb
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\obj\Debug\netcoreapp2.0\Mod3_ChallengeLab.csprojResolveAssemblyReference.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\obj\Debug\netcoreapp2.0\Mod3_ChallengeLab.csproj.CoreCompileInputs.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\obj\Debug\netcoreapp2.0\Mod3_ChallengeLab.AssemblyInfoInputs.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\obj\Debug\netcoreapp2.0\Mod3_ChallengeLab.AssemblyInfo.cs
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\obj\Debug\netcoreapp2.0\Mod3_ChallengeLab.dll
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 3\Mod3_ChallengeLab\Mod3_ChallengeLab\obj\Debug\netcoreapp2.0\Mod3_ChallengeLab.pdb
