@@ -1,0 +1,11 @@
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\bin\Debug\netcoreapp2.0\ChessBoard.deps.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\bin\Debug\netcoreapp2.0\ChessBoard.runtimeconfig.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\bin\Debug\netcoreapp2.0\ChessBoard.runtimeconfig.dev.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\bin\Debug\netcoreapp2.0\ChessBoard.dll
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\bin\Debug\netcoreapp2.0\ChessBoard.pdb
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\obj\Debug\netcoreapp2.0\ChessBoard.csprojResolveAssemblyReference.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\obj\Debug\netcoreapp2.0\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\obj\Debug\netcoreapp2.0\ChessBoard.AssemblyInfoInputs.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\obj\Debug\netcoreapp2.0\ChessBoard.AssemblyInfo.cs
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\obj\Debug\netcoreapp2.0\ChessBoard.dll
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\ChessBoard\ChessBoard\obj\Debug\netcoreapp2.0\ChessBoard.pdb

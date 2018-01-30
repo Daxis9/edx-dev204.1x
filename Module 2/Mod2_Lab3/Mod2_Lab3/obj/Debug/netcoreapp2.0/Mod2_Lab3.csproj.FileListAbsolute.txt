@@ -1,0 +1,11 @@
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\bin\Debug\netcoreapp2.0\Mod2_Lab3.deps.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\bin\Debug\netcoreapp2.0\Mod2_Lab3.runtimeconfig.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\bin\Debug\netcoreapp2.0\Mod2_Lab3.runtimeconfig.dev.json
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\bin\Debug\netcoreapp2.0\Mod2_Lab3.dll
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\bin\Debug\netcoreapp2.0\Mod2_Lab3.pdb
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\obj\Debug\netcoreapp2.0\Mod2_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\obj\Debug\netcoreapp2.0\Mod2_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\obj\Debug\netcoreapp2.0\Mod2_Lab3.AssemblyInfoInputs.cache
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\obj\Debug\netcoreapp2.0\Mod2_Lab3.AssemblyInfo.cs
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\obj\Debug\netcoreapp2.0\Mod2_Lab3.dll
+C:\Users\siu850260352\Documents\workspace\src\csharp\edx-dev204.1x\Module 2\Mod2_Lab3\Mod2_Lab3\obj\Debug\netcoreapp2.0\Mod2_Lab3.pdb
